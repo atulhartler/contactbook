@@ -12,4 +12,5 @@
 !/log/.keep
 /tmp
 config/database.yml
+config/database_example.yml
 config/application.yml 
